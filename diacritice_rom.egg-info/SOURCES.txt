@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+diacritice_rom/__init__.py
+diacritice_rom/core.py
+diacritice_rom/dict.json
+diacritice_rom.egg-info/PKG-INFO
+diacritice_rom.egg-info/SOURCES.txt
+diacritice_rom.egg-info/dependency_links.txt
+diacritice_rom.egg-info/top_level.txt
+tests/test_core.py
